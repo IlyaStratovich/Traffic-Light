@@ -23,7 +23,7 @@ final class ViewController: UIViewController {
     
     private var color = Color.red
     private let lightOn: CGFloat = 1
-    private let lightOff: CGFloat = 0.5
+    private let lightOff: CGFloat = 0.3
     
     override func viewDidLoad() {
         super.viewDidLoad()
